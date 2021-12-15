@@ -1,4 +1,4 @@
-# GEO-ADVISROR-FRONTEND
+# GEO-ADVISROR
 GEO ADVISOR is a web app in which we will be able to find the places according to the reviews.Using authentication in this web app for accessing it.
 There will be two options for the Tourists.
 Firstly, they will come to find the place around them
